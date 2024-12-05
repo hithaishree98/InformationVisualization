@@ -57,9 +57,6 @@ Titles and annotations for better context.
 Unified interactivity across plots.
 The dashboard, saved as combined_plots.html, offers a one-stop visualization suite for understanding Amazon stock trends.
 
-Output and Accessibility
-The individual visualizations are saved as standalone HTML files, ensuring they are accessible across platforms. Additionally, PNG outputs can be generated if required for static reports.
-
 Next Steps:
 Further analysis could incorporate advanced machine learning techniques for predictive modeling or extend the dashboard to include comparisons with other stocks.
 
